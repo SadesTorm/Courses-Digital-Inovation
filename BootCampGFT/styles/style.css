@@ -1,0 +1,29 @@
+header, h1{
+   background-color: rgb(15, 164, 233);
+   padding-top: 16px;
+   padding-bottom: 16px;
+   justify-content: space-between;
+   text-decoration: none;
+   width: 600px;
+   margin: auto;
+   
+}
+
+.title a{
+    text-decoration: none;
+    color: black;
+    width: 40px;
+    
+    text-align: justify;
+
+
+}
+
+.tasks{
+    background: rgb(235, 234, 234);
+    padding: 2px 15px 2px 20px;
+    font-family: monospace;
+    width: 400px;
+    margin: auto;
+ 
+}
